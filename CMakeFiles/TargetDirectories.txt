@@ -1,0 +1,7 @@
+/home/igor/Igo/Formal/dfa2re/CMakeFiles/dfa2re.dir
+/home/igor/Igo/Formal/dfa2re/CMakeFiles/edit_cache.dir
+/home/igor/Igo/Formal/dfa2re/CMakeFiles/rebuild_cache.dir
+/home/igor/Igo/Formal/dfa2re/CMakeFiles/list_install_components.dir
+/home/igor/Igo/Formal/dfa2re/CMakeFiles/install.dir
+/home/igor/Igo/Formal/dfa2re/CMakeFiles/install/local.dir
+/home/igor/Igo/Formal/dfa2re/CMakeFiles/install/strip.dir
